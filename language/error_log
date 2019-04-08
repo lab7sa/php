@@ -1,0 +1,1 @@
+[13-Feb-2018 09:41:28 UTC] PHP Fatal error:  Only variables can be passed by reference in /home2/alshamra/public_html/givethumb/application/controllers/api/Sports_management.php on line 38
